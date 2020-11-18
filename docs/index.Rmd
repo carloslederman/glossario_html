@@ -1,0 +1,11 @@
+--- 
+title: "Glossário de Termos Técnicos em Avaliação de Tecnologias em Saúde"
+author: " Carlos Lederman^3^ e Wanderley Marques Bernardo^4^"
+date: "Novembro/2020"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
+---
